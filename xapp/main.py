@@ -1,6 +1,5 @@
-from xapp.ric_interface import RICInterface
 from xapp.decision_engine import DecisionEngine
-
+from xapp.ric_interface import RICInterface
 
 def main():
 

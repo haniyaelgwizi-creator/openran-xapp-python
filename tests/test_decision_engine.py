@@ -1,5 +1,5 @@
-from xapp.kpi import KPI
 from xapp.decision_engine import DecisionEngine
+from xapp.kpi import KPI
 
 
 def test_handover_decision():
